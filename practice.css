@@ -1,0 +1,35 @@
+h1{
+    font-size: 25px;
+    color: rgb(222, 148, 10);
+    margin-right: 150px;
+    
+}
+body{
+    background-color: rgb(9, 9, 78) ;
+    
+}
+
+a{
+    margin-right: 170px;
+    color: white;
+
+}
+
+button{
+    background-color: #f08804;
+    color: white;
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+nav{
+    height: 60px;
+    background-color: Black;
+    width: 100%;
+
+
+}
